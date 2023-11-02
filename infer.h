@@ -1,7 +1,7 @@
 #ifndef INFER_H
 #define INFER_H
 #include "acl/acl.h"
-
+//dev2
 class Infer {
     public:
         Infer();
